@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ee
 
 # Color definitions
 RED='\033[0;31m'
